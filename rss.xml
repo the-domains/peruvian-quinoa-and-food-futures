@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Peruvian Quinoa and Food Futures]]></title>
+        <description><![CDATA[Peruvian Quinoa and Food Futures]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 23:44:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Lowdown on Peru’s ‘Golden Grain’]]></title>
+            <description><![CDATA[<article><h1>The Lowdown on Peru’s ‘Golden Grain’</h1><p>This story was originally published at Beacon Reader with my colleague Corinna Howland earlier this year. We are experimenting with storytelling and trying our hand at what we call anthropological journalism, where we bring you news-formatted stories we break ourselves as well as a more in-depth anthropological analyses of the politics and social lives of the people and processes behind the stories. Something typical news outlets don’t offer.</p></article>]]></description>
+            <link>undefinedthe-lowdown-on-perus-golden-grain/index.html</link>
+            <guid isPermaLink="false">46a2a6d8-9d8c-45e9-88ee-1e2471def657</guid>
+            <pubDate>Wed, 08 Jun 2016 23:44:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
