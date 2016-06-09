@@ -19,7 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Peruvian Quinoa and Food Futures
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/08b2ff08-c2d4-47b3-a4f1-1df5dbffc1c0.png'
+name: 'Peruvian Quinoa &amp; Food Futures'
 cta:
   domain: null
   bucket: null
