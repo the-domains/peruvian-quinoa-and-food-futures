@@ -1,19 +1,4 @@
-name: Peruvian Quinoa and Food Futures
-favicon: null
-layout_spectrum: 0.4621294823009521
 typography_spectrum: 0.3601946833077818
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#105B63'
@@ -25,4 +10,19 @@ color:
   lightness: 0.869544283952564
   saturation: 0.8243731884285808
   rhythmicContrast: 0.6544454998802394
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4621294823009521
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Peruvian Quinoa and Food Futures
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
