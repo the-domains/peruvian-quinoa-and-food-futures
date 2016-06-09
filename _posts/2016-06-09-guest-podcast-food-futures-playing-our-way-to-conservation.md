@@ -33,11 +33,11 @@ isBasedOnUrl: 'http://thisanthrolife.com/archives/1618'
 title: >-
   Guest Podcast: Food Futures: Playing our Way to Conservation? Experimental
   Economics in the Andean Countryside
-datePublished: '2016-06-09T13:57:59.474Z'
-dateModified: '2016-06-09T12:22:09.810Z'
-starred: false
+datePublished: '2016-06-09T15:19:56.519Z'
+dateModified: '2016-06-09T15:19:55.201Z'
 sourcePath: >-
   _posts/2016-06-09-guest-podcast-food-futures-playing-our-way-to-conservation.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
